@@ -6,9 +6,14 @@ color:
   saturation: 0.2239126763306558
   rhythmicContrast: 0.12175982887856662
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Mi nombre es Marco
+navigation:
+  - id: 0f23d42c-aac6-4a90-8f80-7935d8844984
+    url: 2016-04-19-illustration.html
+    name: Illustration
+    type: content
