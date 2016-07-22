@@ -1,0 +1,14 @@
+layout_spectrum: 0.8084895603824407
+typography_spectrum: 0.2927507869899273
+color:
+  brandStrength: 0.32225391268730164
+  lightness: 0.2546510002575815
+  saturation: 0.2239126763306558
+  rhythmicContrast: 0.12175982887856662
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Mi nombre es Marco
